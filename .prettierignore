@@ -1,0 +1,4 @@
+**/*.svg
+**/*.html
+**/*.ejs
+package.json
